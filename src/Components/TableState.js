@@ -31,7 +31,6 @@ class TableState extends React.Component{
             dress2:'Pant',
             colour2:'White',
             prce2:'Rs 210',
-
         }
        
     }

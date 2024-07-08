@@ -8,12 +8,32 @@ import TableState from './Components/TableState';
 import Tableprop from './Components/Tablepros';
 
 
+
+import Constructor from './Components/Mounting/Construct';
+import Statefprops from './Components/Mounting/Statefprops';
+import Didmount from './Components/Mounting/Didmount';
+import Statefrprops from './Components/Updating/Statefrprops';
+import Shouldupdate from './Components/Updating/Shouldupdate';
+import Getsnap from './Components/Updating/Getsnap';
+import Didupdate from './Components/Updating/Didupdate';
+
+import Lifecycle from './Components/Lifecycle';
+import Reactstrap from './Reactstrap';
+import {Routes, Route} from 'react-router-dom';
+
+
+
+
 function App() {
   return (
     <div >
         
-        <Tableprop/>
+        <Reactstrap/>
         
+        {/* <Routes>
+          <Route path='/' element={<Reactstrap/>}/>
+          <Route path='/table' element={<Table/>}/>
+        </Routes> */}
     </div>
   );
 }
