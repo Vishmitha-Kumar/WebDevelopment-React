@@ -84,7 +84,7 @@ function Task(){
 
     <Row>
     <Col xs={2}  >
-    <Card>
+    <Card className="card1">
        
        <CardBody >
          <img src="https://infoemsolutions.com/jana/a2.jpeg" width={100} style={{textAlign:'center'}}/>
@@ -92,13 +92,13 @@ function Task(){
 
          <p>Rs.59000</p>
          </CardSubtitle>
-         <CardText>You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
+         <CardText className="card2">You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
        
        </CardBody>
      </Card>
     </Col>
     <Col xs={2}  >
-    <Card>
+    <Card className="card1">
        
        <CardBody>
          <img src="https://infoemsolutions.com/jana/a1.jpeg" width={100} style={{textAlign:'center'}}/>
@@ -106,13 +106,13 @@ function Task(){
 
          <p>Rs.59000</p>
          </CardSubtitle>
-         <CardText>You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
+         <CardText className="card2">You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
        
        </CardBody>
      </Card>
     </Col>
     <Col xs={2}  >
-    <Card>
+    <Card className="card1">
        
        <CardBody>
          <img src="https://infoemsolutions.com/jana/a3.jpeg" width={100} style={{textAlign:'center'}}/>
@@ -120,13 +120,13 @@ function Task(){
 
          <p>Rs.59000</p>
          </CardSubtitle>
-         <CardText>You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
+         <CardText className="card2">You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
        
        </CardBody>
      </Card>
     </Col>
     <Col xs={2}  >
-    <Card>
+    <Card className="card1">
        
        <CardBody>
          <img src="https://infoemsolutions.com/jana/a4.jpeg" width={100} style={{textAlign:'center'}}/>
@@ -134,13 +134,13 @@ function Task(){
 
          <p>Rs.59000</p>
          </CardSubtitle>
-         <CardText>You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
+         <CardText className="card2">You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
        
        </CardBody>
      </Card>
     </Col>
     <Col xs={2}  >
-    <Card>
+    <Card className="card1">
        
        <CardBody>
          <img src="https://infoemsolutions.com/jana/a5.jpeg" width={100} style={{textAlign:'center'}}/>
@@ -148,13 +148,13 @@ function Task(){
 
          <p>Rs.59000</p>
          </CardSubtitle>
-         <CardText>You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
+         <CardText className="card2">You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
        
        </CardBody>
      </Card>
     </Col>
     <Col xs={2}  >
-    <Card>
+    <Card className="card1">
        
        <CardBody>
          <img src="https://infoemsolutions.com/jana/a6.jpg" width={100} style={{textAlign:'center'}}/>
@@ -162,7 +162,7 @@ function Task(){
 
          <p>Rs.59000</p>
          </CardSubtitle>
-         <CardText>You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
+         <CardText className="card2">You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
        
        </CardBody>
      </Card>
@@ -171,7 +171,7 @@ function Task(){
   </Row>
     <Row style={{marginTop:'20px'}}>
     <Col xs={2}  >
-    <Card>
+    <Card className="card1">
        
        <CardBody>
          <img src="https://infoemsolutions.com/jana/a7.jpg" width={100} style={{textAlign:'center'}}/>
@@ -179,13 +179,13 @@ function Task(){
 
          <p>Rs.59000</p>
          </CardSubtitle>
-         <CardText>You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
+         <CardText className="card2">You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
        
        </CardBody>
      </Card>
     </Col>
     <Col xs={2}  >
-    <Card>
+    <Card className="card1">
        
        <CardBody>
          <img src="https://infoemsolutions.com/jana/a9.jpeg" width={100} style={{textAlign:'center'}}/>
@@ -193,13 +193,13 @@ function Task(){
 
          <p>Rs.59000</p>
          </CardSubtitle>
-         <CardText>You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
+         <CardText className="card2">You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
        
        </CardBody>
      </Card>
     </Col>
     <Col xs={2}  >
-    <Card>
+    <Card className="card1">
        
        <CardBody>
          <img src="https://infoemsolutions.com/jana/a11.jpg" width={100} style={{textAlign:'center'}}/>
@@ -207,13 +207,13 @@ function Task(){
 
          <p>Rs.59000</p>
          </CardSubtitle>
-         <CardText>You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
+         <CardText className="card2">You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
        
        </CardBody>
      </Card>
     </Col>
     <Col xs={2}  >
-    <Card>
+    <Card className="card1">
        
        <CardBody>
          <img src="https://infoemsolutions.com/jana/a4.jpeg" width={100} style={{textAlign:'center'}}/>
@@ -221,13 +221,13 @@ function Task(){
 
          <p>Rs.59000</p>
          </CardSubtitle>
-         <CardText>You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
+         <CardText className="card2">You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
        
        </CardBody>
      </Card>
     </Col>
     <Col xs={2}  >
-    <Card>
+    <Card className="card1">
        
        <CardBody>
          <img src="https://infoemsolutions.com/jana/a6.jpg" width={100} style={{textAlign:'center'}}/>
@@ -235,13 +235,13 @@ function Task(){
 
          <p>Rs.59000</p>
          </CardSubtitle>
-         <CardText>You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
+         <CardText className="card2">You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
        
        </CardBody>
      </Card>
     </Col>
     <Col xs={2}  >
-    <Card>
+    <Card className="card1">
        
        <CardBody>
          <img src="https://infoemsolutions.com/jana/a2.jpeg" width={100} style={{textAlign:'center'}}/>
@@ -249,7 +249,7 @@ function Task(){
 
          <p>Rs.59000</p>
          </CardSubtitle>
-         <CardText>You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
+         <CardText className="card2">You Save: ₹ 10000.00 Inclusive of all taxes In Stock</CardText>
        
        </CardBody>
      </Card>
