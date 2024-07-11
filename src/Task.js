@@ -306,8 +306,6 @@ function Task(){
         </Col>
 </Row>
 <h5 style={{paddingLeft:'33%'}}>© 2022 All rights reserved. jagan Retail Ltd.</h5>
-
-
 </div>
 
         </div>
