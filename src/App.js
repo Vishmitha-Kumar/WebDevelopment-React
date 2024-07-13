@@ -21,14 +21,14 @@ import Lifecycle from './Components/Lifecycle';
 import Reactstrap from './Reactstrap';
 import {Routes, Route} from 'react-router-dom';
 import Task from './Task';
-
+import Toastex from './Toastex';
 
 
 function App() {
   return (
     <div >
         
-        <Reactstrap/>
+        <Toastex/>
         
         {/* <Routes>
           <Route path='/' element={<Reactstrap/>}/>

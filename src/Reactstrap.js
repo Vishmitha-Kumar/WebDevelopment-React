@@ -32,6 +32,7 @@ import {
 
 
 const Reactstrap = (props) => {
+
   const [isOpen, setIsOpen] = useState(false);
 
  
@@ -112,7 +113,7 @@ const Reactstrap = (props) => {
 
       <Modal isOpen={modal} toggle={togglemodel}>
 
-        <ModalHeader toggle={togglemodel} style={{paddingLeft:'40%'}}>Login</ModalHeader>
+        <ModalHeader style={{paddingLeft:'40%'}}>Login</ModalHeader>
 
         
 
