@@ -266,18 +266,18 @@ function Task(){
 <div style={{marginTop:'10px'}}>
 
 <Row style={{backgroundColor:'lightblue'}}>
-  
         <Col md={4}>
+        <h4>Clovers</h4>
 
         <h4>MOST POPULAR CATEGORIES</h4>
-        <h6>Stables</h6>
-        <h6>Beverages</h6>
-        <h6>Personal Care</h6>
-        <h6>Home Care</h6>
-        <h6>Fruits and Vegetables</h6>
-        <h6>Baby Care</h6>
-        <h6>Snacks & Foods</h6>
-        <h6>Dairy & Bakery</h6>
+        <h6>Vegetables</h6>
+        <h6>Bakery</h6>
+        <h6>Wine</h6>
+        <h6>Dairy & Eggs</h6>
+        <h6>Meat & Poultry</h6>
+        <h6>Soft Drinks</h6>
+        <h6>Cleaning Supplies</h6>
+        <h6>Cereal & Snacks</h6>
         
         
         </Col>
@@ -301,8 +301,6 @@ function Task(){
         <h6>70003 70003</h6>
         <h6>Call Us :</h6>
         <h6>1800 890 1222</h6>
-        <h6>8:00 AM to 8:00 PM, 365 days
-        Please note that you are accessing the BETA Version of</h6>
         <h6>www.jaganonlinemart.com</h6>
         <h6>Should you encounter any bugs, glitches, lack of functionality, delayed deliveries, billing errors or other problems on the beta website, please email us on</h6>
         <h6>jaganmech107@gmail.com</h6>
